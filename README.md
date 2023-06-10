@@ -2,7 +2,7 @@
 
 ## Background
 
-
+This is a smart contract which creates a joint savings accounts for two users. Users will be able to deposit, withdraw and check balances of account.
 
 
 ## Technologies
